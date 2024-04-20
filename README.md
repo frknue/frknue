@@ -1,15 +1,3 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=frknue&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=frknue&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=frknue&show_icons=true" />
-</picture>
-
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknue&size_weight=0.5&count_weight=0.5&theme=radical" />
  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknue&size_weight=0.5&count_weight=0.5&theme=radical" />
 </div>
