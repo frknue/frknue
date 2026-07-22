@@ -2,7 +2,7 @@
 
 # Hey, I'm Furkan 👋
 
-**Backend engineer building developer tools.** Mostly Go, TypeScript, and Swift — with a soft spot for terminals, automation, and things that run on my own machines.
+**Shopify expert & tech lead.** I build commerce solutions for a living — apps, integrations, and everything around the Shopify ecosystem. Outside of that, I have fun with Go, Swift, and terminals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--uelker-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-uelker)
 [![GitHub followers](https://img.shields.io/github/followers/frknue?logo=github&label=Follow&color=181717)](https://github.com/frknue)
@@ -11,7 +11,9 @@
 
 ---
 
-## 🚧 What I'm building
+## 🎮 Side quests
+
+Open source is my playground — these are the projects I hack on for fun:
 
 ### 🎹 [soprano](https://github.com/frknue/soprano) — a terminal built for AI coding agents
 
@@ -39,8 +41,15 @@ Turn real life into a game: complete quests, earn XP across nine attributes (Str
 
 ## 🛠 Toolbox
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+**Day job:**
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-005E85?logo=shopify&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+
+**After hours:**
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?logo=react&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
