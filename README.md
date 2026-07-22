@@ -1,17 +1,61 @@
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknue&size_weight=0.5&count_weight=0.5&theme=radical" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknue&size_weight=0.5&count_weight=0.5&theme=radical" />
+<div align="center">
+
+# Hey, I'm Furkan 👋
+
+**Backend engineer building developer tools.** Mostly Go, TypeScript, and Swift — with a soft spot for terminals, automation, and things that run on my own machines.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--uelker-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-uelker)
+[![GitHub followers](https://img.shields.io/github/followers/frknue?logo=github&label=Follow&color=181717)](https://github.com/frknue)
+
 </div>
-<!--
-**frknue/frknue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I'm building
+
+### 🎹 [soprano](https://github.com/frknue/soprano) — a terminal built for AI coding agents
+
+A native macOS tiling terminal multiplexer designed around agents like Claude Code, Codex, and OpenCode — not bolted onto them.
+
+- Built-in agent launchers with lifecycle hooks: know when an agent is **working, ready, waiting for input, or done**
+- Native macOS notifications when a background agent finishes
+- Tiling panes, tabs, command palette (`⌘P`), session restore, themes & keybindings
+- Pure Swift + AppKit, powered by [libghostty](https://github.com/ghostty-org/ghostty)
+
+`Swift` `AppKit` `libghostty` `macOS 14+`
+
+### ⚔️ [edi](https://github.com/frknue/edi) — a self-hosted life RPG
+
+Turn real life into a game: complete quests, earn XP across nine attributes (Strength, Discipline, Focus, Health, Wealth…), level up, and keep your streaks alive.
+
+- Daily / weekly / boss quests with an **immutable, auditable XP event log**
+- Gold economy, decay mechanics, wards, and rest mode — skipping leg day has consequences
+- One API, many clients: web UI, CLI, Telegram bot, shell prompt widget, and an **MCP server** so AI agents can play too
+- AI coaching that suggests quests tailored to you
+
+`Go` `React` `TypeScript` `Tailwind` `SQLite` `MCP`
+
+---
+
+## 🛠 Toolbox
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?logo=react&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+
+## 📊 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frknue&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknue&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Fun fact: I built a game to make myself go to the gym, and a terminal so my agents tell me when they need me.</sub>
+</div>
