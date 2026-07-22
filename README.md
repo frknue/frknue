@@ -50,8 +50,10 @@ Turn real life into a game: complete quests, earn XP across nine attributes (Str
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=frknue&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknue&layout=compact&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=frknue&theme=radical" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frknue&theme=radical" alt="Top languages" />
+  <br />
+  <img height="170" src="https://streak-stats.demolab.com?user=frknue&theme=radical&hide_border=true" alt="Contribution streak" />
 </div>
 
 ---
