@@ -39,6 +39,7 @@ brew install --cask frknue/tap/soprano
 | 🌿 [Soprano Git](https://github.com/frknue/soprano_git) | Keyboard-first Git client with a commit graph on top of your own `git` CLI; opens from any Soprano pane with `⌃A` → `G` | GitKraken |
 | 🔍 [Soprano Cast](https://github.com/frknue/soprano_cast) | `⌘Space` launcher for apps, window management, quicklinks, and scripts, with a calculator, global hotkeys, and a Hyper key | Raycast |
 | 🪟 [Soprano Tab](https://github.com/frknue/soprano_tab) | `⌥⇥` switcher for every window (not just every app) with thumbnails, search, and trackpad swipes | AltTab |
+| 🎚️ [Soprano Mix](https://github.com/frknue/soprano_mix) | Menu-bar mixer with a volume (0–400 %), mute, and output device for **every app**, software volume for HDMI/DisplayPort outputs; no audio driver needed | SoundSource |
 
 Also on the side: ⚔️ [edi](https://github.com/frknue/edi), a self-hosted life RPG that turns real life into quests, XP, and streaks, with an MCP server so AI agents can play too.
 
