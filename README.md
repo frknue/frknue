@@ -11,31 +11,36 @@
 
 ---
 
-## 🎮 Side quests
+## 🎮 Side quests: the Soprano family
 
-Open source is my playground — these are the projects I hack on for fun:
+After hours I build a family of native macOS apps: pure Swift + AppKit, no Electron, keyboard-first, every shortcut rebindable, all sharing one design system (**Folio**: paper & ink, light and dark). It started as a terminal for my AI agents and grew into the tools I use all day.
 
-### 🎹 [soprano](https://github.com/frknue/soprano) — a terminal built for AI coding agents
+### 🎹 [Soprano](https://github.com/frknue/soprano): a terminal built for AI coding agents
 
-A native macOS tiling terminal multiplexer designed around agents like Claude Code, Codex, and OpenCode — not bolted onto them.
+A native tiling terminal multiplexer designed around agents like Claude Code, Codex, and OpenCode, not bolted onto them.
 
-- Built-in agent launchers with lifecycle hooks: know when an agent is **working, ready, waiting for input, or done**
-- Native macOS notifications when a background agent finishes
-- Tiling panes, tabs, command palette (`⌘P`), session restore, themes & keybindings
-- Pure Swift + AppKit, powered by [libghostty](https://github.com/ghostty-org/ghostty)
+- Built-in agent launchers with lifecycle hooks: every pane shows whether its agent is **working, waiting for input, or done**
+- Native macOS notifications when a background agent needs you
+- Tiling panes, layout tabs, command palette (`⌘P`), session restore, themes & keybindings
+- File explorer, source control, file editor, Markdown reader, and an in-app browser right next to the terminals
+- GPU-rendered terminals powered by [libghostty](https://github.com/ghostty-org/ghostty)
 
-`Swift` `AppKit` `libghostty` `macOS 14+`
+```bash
+brew install --cask frknue/tap/soprano
+```
 
-### ⚔️ [edi](https://github.com/frknue/edi) — a self-hosted life RPG
+[Website](https://frknue.github.io/soprano-site/) · `Swift 6` `AppKit` `libghostty` `macOS 14+`
 
-Turn real life into a game: complete quests, earn XP across nine attributes (Strength, Discipline, Focus, Health, Wealth…), level up, and keep your streaks alive.
+### 🧰 The rest of the family
 
-- Daily / weekly / boss quests with an **immutable, auditable XP event log**
-- Gold economy, decay mechanics, wards, and rest mode — skipping leg day has consequences
-- One API, many clients: web UI, CLI, Telegram bot, shell prompt widget, and an **MCP server** so AI agents can play too
-- AI coaching that suggests quests tailored to you
+| App | What it does | In the spirit of |
+|---|---|---|
+| 🌐 [Soprano Web](https://github.com/frknue/soprano_web) | WebKit browser with tabs, history, bookmarks, and a **CLI that lets agents navigate, inspect, and click pages** | Safari, but scriptable |
+| 🌿 [Soprano Git](https://github.com/frknue/soprano_git) | Keyboard-first Git client with a commit graph on top of your own `git` CLI; opens from any Soprano pane with `⌃A` → `G` | GitKraken |
+| 🔍 [Soprano Cast](https://github.com/frknue/soprano_cast) | `⌘Space` launcher for apps, window management, quicklinks, and scripts, with a calculator, global hotkeys, and a Hyper key | Raycast |
+| 🪟 [Soprano Tab](https://github.com/frknue/soprano_tab) | `⌥⇥` switcher for every window (not just every app) with thumbnails, search, and trackpad swipes | AltTab |
 
-`Go` `React` `TypeScript` `Tailwind` `SQLite` `MCP`
+Also on the side: ⚔️ [edi](https://github.com/frknue/edi), a self-hosted life RPG that turns real life into quests, XP, and streaks, with an MCP server so AI agents can play too.
 
 ---
 
